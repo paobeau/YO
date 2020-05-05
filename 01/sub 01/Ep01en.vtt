@@ -1,5 +1,14 @@
 WEBVTT
 
+STYLE
+::cue(#middle\ cue\ identifier) {
+  text-decoration: underline;
+}
+::cue(#cue\ identifier\ \33) {
+  font-weight: bold;
+  color: red;
+}
+
 1
 00:00:07.000 --> 00:00:14.970
 
